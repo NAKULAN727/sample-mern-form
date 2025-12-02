@@ -10,7 +10,7 @@ export const styles = {
     justifyContent: 'center',
     alignItems: 'center',
     //minHeight: '100vh',
-    backgroundColor: 'white',
+    backgroundColor: 'black',
     marginLeft:'470px'
   },
   form: {
